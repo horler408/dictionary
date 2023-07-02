@@ -1,0 +1,5 @@
+png to favicon
+manifest generator
+image resizer
+
+npx create-react-app myapp --template cra-template-pwa
